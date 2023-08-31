@@ -1,4 +1,4 @@
-# Assignment name
+# Programming Assignment 2 - It's All Greek to Me!
 ##Getting Started
 - [ ] Accept the assignment and create your repository for submitting your work
 - [ ] In GitHub Desktop, clone the repository to your desktop.
